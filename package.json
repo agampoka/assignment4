@@ -1,0 +1,20 @@
+{
+  "type":"module",
+  "name": "trainees-assignment-node",
+  "version": "1.0.0",
+  "description": "backend for the express assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon start"
+  },
+  "author": "Loumar",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4",
+    "nodemon": "^2.0.15"
+  }
+}
